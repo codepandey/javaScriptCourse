@@ -1,0 +1,15 @@
+
+/// show only string value under the console
+const movie = {
+    title: 'a',
+    releseYear: 2018,
+    rating: 4.5,
+    director: 'b'
+}
+showProperties(movie);
+
+function showProperties(obj) {
+    for(let key in obj)
+    if(typeof obj[key] === 'string')
+    console.log(key, obj[key]);
+}
