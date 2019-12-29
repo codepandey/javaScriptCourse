@@ -7,7 +7,7 @@ console.log("After");
 
 
 
-// example of Callback hell
+// //example of Callback hell
 // getUser(1, (user) => {   
 //     getRepositroies(user.gitHubUsername, (repos) => {
 //         getCommits(repo, (commits) => {

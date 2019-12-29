@@ -13,8 +13,8 @@ do {
 // console.log(cars);
 
 
-// var fruits = ["Banana", "Orange", "Apple", "Mango"];
-// console.log(fruits.join(" * ")); 
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+console.log(fruits.join(" * ")); 
 
 // var fruits = ["Banana", "Orange", "Apple", "Mango"];
 // fruits[fruits.length] = 'rahul';
